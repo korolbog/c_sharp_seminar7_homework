@@ -1,0 +1,15 @@
+C:\Users\bkorolev\Documents\3 Прожекты\Программное тестирование\Geek Brains\IV. Введение в C_Sharp\220813 Семинар 7\CSharpHomeWork6\Task52\obj\MCD\Debug\net6.0\Task52.csproj.AssemblyReference.cache
+C:\Users\bkorolev\Documents\3 Прожекты\Программное тестирование\Geek Brains\IV. Введение в C_Sharp\220813 Семинар 7\CSharpHomeWork6\Task52\obj\MCD\Debug\net6.0\Task52.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bkorolev\Documents\3 Прожекты\Программное тестирование\Geek Brains\IV. Введение в C_Sharp\220813 Семинар 7\CSharpHomeWork6\Task52\obj\MCD\Debug\net6.0\Task52.AssemblyInfoInputs.cache
+C:\Users\bkorolev\Documents\3 Прожекты\Программное тестирование\Geek Brains\IV. Введение в C_Sharp\220813 Семинар 7\CSharpHomeWork6\Task52\obj\MCD\Debug\net6.0\Task52.AssemblyInfo.cs
+C:\Users\bkorolev\Documents\3 Прожекты\Программное тестирование\Geek Brains\IV. Введение в C_Sharp\220813 Семинар 7\CSharpHomeWork6\Task52\obj\MCD\Debug\net6.0\Task52.csproj.CoreCompileInputs.cache
+C:\Users\bkorolev\Documents\3 Прожекты\Программное тестирование\Geek Brains\IV. Введение в C_Sharp\220813 Семинар 7\CSharpHomeWork6\Task52\bin\MCD\Debug\net6.0\Task52.exe
+C:\Users\bkorolev\Documents\3 Прожекты\Программное тестирование\Geek Brains\IV. Введение в C_Sharp\220813 Семинар 7\CSharpHomeWork6\Task52\bin\MCD\Debug\net6.0\Task52.deps.json
+C:\Users\bkorolev\Documents\3 Прожекты\Программное тестирование\Geek Brains\IV. Введение в C_Sharp\220813 Семинар 7\CSharpHomeWork6\Task52\bin\MCD\Debug\net6.0\Task52.runtimeconfig.json
+C:\Users\bkorolev\Documents\3 Прожекты\Программное тестирование\Geek Brains\IV. Введение в C_Sharp\220813 Семинар 7\CSharpHomeWork6\Task52\bin\MCD\Debug\net6.0\Task52.dll
+C:\Users\bkorolev\Documents\3 Прожекты\Программное тестирование\Geek Brains\IV. Введение в C_Sharp\220813 Семинар 7\CSharpHomeWork6\Task52\bin\MCD\Debug\net6.0\Task52.pdb
+C:\Users\bkorolev\Documents\3 Прожекты\Программное тестирование\Geek Brains\IV. Введение в C_Sharp\220813 Семинар 7\CSharpHomeWork6\Task52\obj\MCD\Debug\net6.0\Task52.dll
+C:\Users\bkorolev\Documents\3 Прожекты\Программное тестирование\Geek Brains\IV. Введение в C_Sharp\220813 Семинар 7\CSharpHomeWork6\Task52\obj\MCD\Debug\net6.0\refint\Task52.dll
+C:\Users\bkorolev\Documents\3 Прожекты\Программное тестирование\Geek Brains\IV. Введение в C_Sharp\220813 Семинар 7\CSharpHomeWork6\Task52\obj\MCD\Debug\net6.0\Task52.pdb
+C:\Users\bkorolev\Documents\3 Прожекты\Программное тестирование\Geek Brains\IV. Введение в C_Sharp\220813 Семинар 7\CSharpHomeWork6\Task52\obj\MCD\Debug\net6.0\Task52.genruntimeconfig.cache
+C:\Users\bkorolev\Documents\3 Прожекты\Программное тестирование\Geek Brains\IV. Введение в C_Sharp\220813 Семинар 7\CSharpHomeWork6\Task52\obj\MCD\Debug\net6.0\ref\Task52.dll
